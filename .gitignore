@@ -1,4 +1,5 @@
 moviesdb/
+testDir/
 
 .vscode
 .DS_Store
